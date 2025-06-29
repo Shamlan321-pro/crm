@@ -1,8 +1,8 @@
 app_name = "crm"
-app_title = "Frappe CRM"
-app_publisher = "Frappe Technologies Pvt. Ltd."
-app_description = "Kick-ass Open Source CRM"
-app_email = "shariq@frappe.io"
+app_title = "TaskforgeHQ CRM"
+app_publisher = "TaskforgeHQ Technologies Pvt. Ltd."
+app_description = "Kick-ass  CRM"
+app_email = "info@taskforgehq.com"
 app_license = "AGPLv3"
 app_icon_url = "/assets/crm/images/logo.svg"
 app_icon_title = "CRM"
@@ -282,7 +282,7 @@ standard_dropdown_items = [
 	},
 	{
 		"name1": "login_to_fc",
-		"label": "Login to Frappe Cloud",
+		"label": "Login to TaskforgeHQ Cloud",
 		"type": "Route",
 		"route": "#",
 		"is_standard": 1,

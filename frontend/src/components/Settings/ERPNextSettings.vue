@@ -1,8 +1,8 @@
 <template>
   <SettingsPage
     doctype="ERPNext CRM Settings"
-    :title="__('ERPNext settings')"
-    :successMessage="__('ERPNext settings updated')"
+    :title="__('TaskforgeHQ ERP settings')"
+    :successMessage="__('TaskforgeHQ ERP settings updated')"
     class="p-8"
   />
 </template>
